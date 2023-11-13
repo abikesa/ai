@@ -35,6 +35,7 @@
    - Diversity
    - Power for individualized medicine
    - We need those tokens for simultaneous hypotheses
+   
      
 2. Phenotype
 3. WebApp
@@ -51,6 +52,10 @@
      - Or submit it here as a new manuscript (not resubmission) that adheres to the format and treats the reader as a specialist
      - Clinical, guidelines, and policy implications should shape the paper
      - No non-clinical acronyms should be used; these burden the clinical reader with new terms
+     - Choice of methods: AI vs. statistics?
+       - Challenges at the interface of medical statistics and AI are population inference vs. prediction, generalizability, reproducibility and interpretation of evidence, and stability and statistical guarantees. - Where Medical Statistics Meets Artificial Intelligence
+List of authors.
+David J. Hunter, M.B., B.S., and Christopher Holmes, Ph.D.: REVIEW ARTICLEAI IN MEDICINEFREE PREVIEW
      
 4. Available
 5. Coldtime
