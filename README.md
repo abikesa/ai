@@ -6,12 +6,12 @@
      4
 ```
 
-1. Physics to Meta
-2. Identity
-3. Epistemology
-4. Ontology
-5. Time
-6. Change
+1. Genres: Physics to Meta
+2. History: Identity
+3. Modes: Epistemology
+4. Qualities: Ontology
+5. Voicings: Time
+6. Pocket: Change
 
 ---
 
@@ -42,10 +42,14 @@
 
 1. Living, deceased, intersection
 2. History, exam, labs
-3. Usability
-4. `Definable`
-5. Clinical, guideline, policy
-6. Empirical needs
+   - Standard tokens from clinical practice
+   - Two authors are from computer science and engineering
+   - Why didn't they collaborate with clinicians from their institution?
+     
+4. Usability
+5. `Definable`
+6. Clinical, guideline, policy
+7. Empirical needs
 
    ---
 
