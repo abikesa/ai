@@ -9,9 +9,16 @@
 1. Genres: Physics to Meta
 2. History: Identity
 3. Modes: Epistemology
-4. Qualities: Ontology
-5. Voicings: Time
-6. Pocket: Change
+   - Desktop
+   - Mobile
+   - Cloud
+   - Tool
+   - Agent
+   - Pluggins
+     
+5. Qualities: Ontology
+6. Voicings: Time
+7. Pocket: Change
 
 ---
 
@@ -24,8 +31,17 @@
 ```
 
 1. Ideal
+   - Simulation
+   - Diversity
+   - Power for individualized medicine
+   - We need those tokens for simultaneous hypotheses
+     
 2. Phenotype
 3. WebApp
+   - Fine-tuning by clinician
+   - Makes decision in real time
+   - iOS, Android?
+     
 4. Available
 5. Coldtime
 6. Mortalityrisk
@@ -45,6 +61,8 @@
    - Standard tokens from clinical practice
    - Two authors are from computer science and engineering
    - Why didn't they collaborate with clinicians from their institution?
+   - Clarify if "supervised" multivariable regression $\propto$ sophistication
+   - Or Sophistication $\sim$ AI
      
 4. Usability
 5. `Definable`
