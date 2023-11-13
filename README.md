@@ -16,21 +16,21 @@
    - Agent
    - Pluggins
      
-5. Qualities: Ontology
-6. Voicings: Time
-7. Pocket: Change
+4. Qualities: Ontology
+5. Voicings: Time
+6. Pocket: Change
 
 ---
 
 ```
-   1
-    \
-3 -> 2 -> 5 -> 6
-    /
-     4
+      1. Data
+             \
+3. Methods -> 2. Exposure -> 5. Blackbox  -> 6. Outcomes
+             /
+              4. Patients
 ```
 
-1. Ideal
+1. Ideal Data
    - Simulation
    - Diversity
    - Power for individualized medicine
@@ -64,10 +64,10 @@
    - Clarify if "supervised" multivariable regression $\propto$ sophistication
    - Or Sophistication $\sim$ AI
      
-4. Usability
-5. `Definable`
-6. Clinical, guideline, policy
-7. Empirical needs
+3. Usability
+4. `Definable`
+5. Clinical, guideline, policy
+6. Empirical needs
 
    ---
 
