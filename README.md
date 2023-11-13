@@ -42,6 +42,15 @@
    - Makes decision in real time
    - iOS, Android?
    - Structure of manuscript not consistent with `Original contributions` to the Journal
+     - Please review papers published in this journal for format
+     - Abstract, Introduction, Methods, Results, Discussion, References
+     - Your subsections such as 1.1, 1.2, 1.3 must be removed and presented as paragraphs
+   - This is a clinical journal targeting specialists
+     - Do not give the reader a background on organ transplantation
+     - Consider submitting your article to a methods journal
+     - Or submit it here as a new manuscript (not resubmission) that adheres to the format and treats the reader as a specialist
+     - Clinical, guidelines, and policy implications should shape the paper
+     - No non-clinical acronyms should be used; these burden the clinical reader with new terms
      
 4. Available
 5. Coldtime
@@ -87,6 +96,17 @@
          - medical risk
       - geographic analysis
          - shortest paths for donor identification
+         - Which geographic area does this paper target?
+            - India?
+            - Or is it generalizable to any allocation system in the world?
+            - What aspects of the simulation address this?
+            - Maybe use an already published paper as a template
+              - There are US papers focusing on Geography
+              - Are there any papers from India on Geography
+              - What really is new here?
+        - Condense your content into simple clinical format: Apollonian surface
+        - May provide supplements with technical details: Dionysian undercurrents
+              
       - MCHH-HELM model
          - refines donor-recipient matching using deep learning techniques 
       - `novel` genetic algorithm-based optimal allocation strategy
