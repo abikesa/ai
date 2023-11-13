@@ -41,6 +41,7 @@
    - Fine-tuning by clinician
    - Makes decision in real time
    - iOS, Android?
+   - Structure of manuscript not consistent with `Original contributions` to the Journal
      
 4. Available
 5. Coldtime
