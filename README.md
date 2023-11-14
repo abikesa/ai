@@ -18,6 +18,10 @@
      
 4. Qualities: Ontology
 5. Voicings: Time
+   - Not the underlying model (i.e., inversions of the chord)
+   - But its `usability` (i.e., voicings reflect limits of our fingers, hands, and ears)
+   - Sam Altman believes ChatGPT is such as thing: at [5:55](https://www.youtube.com/watch?v=L_Guz73e6fw)/2:23:56
+     
 6. Pocket: Change
 
 ---
