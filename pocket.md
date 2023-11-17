@@ -1,0 +1,8 @@
+- Will proliferate
+- Across jurisdictions
+- Can’ t have [unilateral regulations](https://www.youtube.com/watch?v=9s4PKv2SQzU)
+- Balancing geopolitical competitiveness and regulation
+- Those emphasizing regulation will be left behind
+- Since you can’t keep up with the rapid pace of innovations
+- Even AI leaders have coined term: iterative development… 
+- Regulators by contrast think they can do this in one fell swoop
