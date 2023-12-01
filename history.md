@@ -6,20 +6,23 @@
              4. Response
 ```
 
-- `ACI` (Sensory) - classical 
-      - Reading X-rays 
-      - Cameras & automated pilots, drivers, etc
-      - Siri is an example
-      - Physical world interface with no abstract notions
+### `ACI` (Sensory)
+- Classical 
+- Reading X-rays 
+- Cameras & automated pilots, drivers, etc
+- Siri is an example
+- Physical world interface with no abstract notions
 
-- `ASI` (Memory) - specific 
-      - GPT: language tasks
+### `ASI` (Memory)
+- Specific 
+- GPT: language tasks
       - ChatGPT is an example
 
-- `AGI` (Response) - general 
-      - Knowledge = Truth + Bias + Variance
-         - Bias = individualized vs Group 
-      - The creators of the Matrix are an example
+### `AGI` (Response)
+- General 
+- Knowledge = Truth + Bias + Variance
+- Bias = individualized vs Group 
+- The creators of the Matrix are an example
 
 - Cosmology/chemistry/constants
 - Biology/behavior/bias
