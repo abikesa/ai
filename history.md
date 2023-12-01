@@ -20,8 +20,20 @@
 
 ### `AGI` (Response)
 - General 
-- Knowledge = Truth + Bias + Variance
-- Bias = individualized vs Group 
+- $\text{Knowledge} = \alpha + \text{X}  \beta + \epsilon$
+   - $\alpha$
+     - Truths
+   - $\beta$
+     - Bias
+   - $\epsilon$
+     - Variance
+   - $\text{X}$
+     - Tokens
+
+   - $ijk$ Levels
+     - Individual
+     - Group
+     - Space-time
 - The creators of the Matrix are an example
 
 - Cosmology/chemistry/constants
