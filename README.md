@@ -1,5 +1,7 @@
 
 1. Genres: Physics to Meta
+   - Ultimately general purpose
+   - Call it AGI
 2. [Modes](https://www.economist.com/subscriber-events/a-conversation-with-openais-sam-altman-and-microsofts-satya-nadella-hub): Epistemology
    - See
    - Hear
@@ -26,8 +28,6 @@
 6. Pocket: Change
    - Emotion: from anxiety, engagement, flow, control to relaxation, boredom, apathy, etc
    - `Percentage` of tasks that GPT-X can do
-
----
 
 ```
       1. Data
@@ -56,11 +56,12 @@
      - Or submit it here as a new manuscript (not resubmission) that adheres to the format and treats the reader as a specialist
      - Clinical, guidelines, and policy implications should shape the paper
      - No non-clinical acronyms should be used; these burden the clinical reader with new terms
-     - Choice of methods: AI vs. statistics?
-       - Challenges at the interface of medical statistics and AI are population inference vs. prediction, generalizability, reproducibility and interpretation of evidence, and stability and statistical guarantees. - Where Medical Statistics Meets Artificial Intelligence
-List of authors.
-David J. Hunter, M.B., B.S., and Christopher Holmes, Ph.D.: REVIEW ARTICLEAI IN MEDICINEFREE PREVIEW
-     
+     - Choice of methods: [AI vs. statistics?](https://www.nejm.org/doi/pdf/10.1056/NEJMra2212850?articleTools=true)
+       - Challenges at the interface of medical statistics and AI are:
+         - Population inference vs. prediction
+         - Generalizability
+         - Reproducibility and interpretation of evidence
+         - Stability and statistical guarantees
 3. Available
 4. Phenotype
 5. Coldtime
