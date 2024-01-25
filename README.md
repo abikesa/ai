@@ -28,6 +28,10 @@
 6. Pocket: Change
    - Emotion: from anxiety, engagement, flow, control to relaxation, boredom, apathy, etc
    - `Percentage` of tasks that GPT-X can do
+   - Healthcare & Education
+     - Personalized
+     - Experts at fingertips
+     - Scallable
 
 ```
       1. Data
