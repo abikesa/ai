@@ -7,6 +7,7 @@
    - Hear
    - Talk
    - `Voice`
+   - [Notes](https://hub.jhu.edu/2024/02/20/artificial-intelligence-analyzes-doctors-notes/)
    - Reasoning
      - 1993: Bill Gates: information at your fingertips
      - 2023: Satya Nadella: experts at your fingertips
