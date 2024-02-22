@@ -5,12 +5,12 @@
                             4. Physics
 
 
-1. Life: Recurrence of same
-2. Art: Indifferent, Enabling, Antagonist
-3. Song: Protagonist going solo or backed-up by harmonies
-4. Physics: Tension & release
-5. Metaphysics: Empirically supported
-6. Construct: [Reverse Propagation](https://publichealth.jhu.edu/events/2024/public-health-ai-strategic-endeavors-phaise-launch-feb-29)
+1. Life (Discord): Recurrence of same
+2. Art (Group): Indifferent, Enabling, Antagonist
+3. Song (Individual): Protagonist going solo or backed-up by choir, group, harmonies
+4. Physics (Hierarchical): Tension & release
+5. Metaphysics (Test): Empirically supported is "release", otherwise "tension"
+6. Construct (Foundation): [Reverse Propagation](https://publichealth.jhu.edu/events/2024/public-health-ai-strategic-endeavors-phaise-launch-feb-29)
 
 
 
