@@ -1,0 +1,3 @@
+- Automation is the key "perk" of AI
+- But engineers must audit "validity"
+- Can get [fatal](https://www.nytimes.com/2019/06/01/business/boeing-737-max-crash.html) when engineers are excluded
