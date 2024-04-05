@@ -20,9 +20,10 @@
    - Secundo
    - Contorno 
 ### [Art](https://www.economist.com/the-economist-explains/2024/03/28/how-to-define-artificial-general-intelligence)
-3. Diatonic: Second, human reviews are used to fine-tune the system in a process called reinforcement learning from human feedback, which trains the model to refuse prompts which go against OpenAI's definition of harmful behavior, such as questions on how to perform illegal activities, advice on how to harm oneself or others, or requests for descriptions of graphic, violent, or sexual content
+3. Diatonic: Second, human reviews are used to fine-tune the system in a process called reinforcement learning from `human feedback`, which trains the model to refuse prompts which go against OpenAI's definition of harmful behavior, such as questions on how to perform illegal activities, advice on how to harm oneself or others, or requests for descriptions of graphic, violent, or sexual content
+      - Know your audience!
    - Dolce. It's *La Dolce Vita* that motivates human innovation; we want to recite $\text{Psalm 23}$ out of experience
-4. Chromatic
+5. Chromatic
    - Frutta
      1. **Pitaya** 
      2. **Mango**  
