@@ -13,7 +13,7 @@
 ### God
 1. Root
    - Italian cuisine
-2. Pentatonic: GPT-4 was trained in two stages. First, the model was given large datasets of text taken from the internet and trained to predict the next token (roughly corresponding to a word) in those datasets
+2. Pentatonic: GPT-4 was trained in two stages. First, the model was given large datasets of text taken from the internet and trained to predict the next token (roughly corresponding to a word) in those datasets. Indeed, indeed. Patterns have a minimum of five nodes (many edges), analogous to the pentatonic scale; powerful mnemonic, or language model!
    - Aperitivo
    - Antipasto
    - Primo
