@@ -13,14 +13,14 @@
 ### God
 1. Root
    - Italian cuisine
-2. Pentatonic
+2. Pentatonic: GPT-4 was trained in two stages. First, the model was given large datasets of text taken from the internet and trained to predict the next token (roughly corresponding to a word) in those datasets
    - Aperitivo
    - Antipasto
    - Primo
    - Secundo
    - Contorno 
 ### [Art](https://www.economist.com/the-economist-explains/2024/03/28/how-to-define-artificial-general-intelligence)
-3. Diatonic
+3. Diatonic: Second, human reviews are used to fine-tune the system in a process called reinforcement learning from human feedback, which trains the model to refuse prompts which go against OpenAI's definition of harmful behavior, such as questions on how to perform illegal activities, advice on how to harm oneself or others, or requests for descriptions of graphic, violent, or sexual content
    - Dolce. It's *La Dolce Vita* that motivates human innovation; we want to recite $\text{Psalm 23}$ out of experience
 4. Chromatic
    - Frutta
@@ -37,7 +37,7 @@
      11. **Papaya** 
      12. **Lychee**  
 ### Man
-5. Temparement
+5. Temparement: OpenAI/[Alignment](https://en.wikipedia.org/wiki/GPT-4#Alignment) conducted internal adversarial testing on GPT-4 prior to the launch date, with dedicated red teams composed of researchers and industry professionals to mitigate potential vulnerabilities.
    - Caffé
 6. Expression
    - Digestivo
