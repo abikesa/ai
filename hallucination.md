@@ -18,6 +18,6 @@ Both phrases serve as a way to say goodbye until next time, but "luego" is the m
 
 That's a plausible interpretation, especially considering the context in which "Hasta la vista, baby!" was popularized. The phrase may indeed reflect a sort of playful, slightly incorrect appropriation of Spanish by an English-speaking scriptwriter. Such creative adaptations often occur in entertainment, where the focus is more on the impact of the line rather than its linguistic accuracy.
 
-In the case of *Terminator 2*, the line works perfectly for Arnold Schwarzenegger's Terminator—a character who, as an artificial intelligence, could plausibly mix languages in ways that are memorable yet not quite native. The slight misusage adds to the character's charm and the line's memorability, turning it into a cultural touchstone.
+In the case of *Terminator 2*, the line works perfectly for Arnold Schwarzenegger's Terminator—a character who, as an `artificial intelligence`, could plausibly mix languages in ways that are memorable yet not quite native. The slight misusage adds to the character's charm and the line's memorability, turning it into a cultural touchstone.
 
 This blending or tweaking of language for dramatic effect shows how film and media can influence language perception and usage, often far beyond the original linguistic rules. It's a testament to how powerful and lasting film dialogue can be, creating phrases that resonate across different languages and cultures.
