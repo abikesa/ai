@@ -21,3 +21,11 @@ That's a plausible interpretation, especially considering the context in which "
 In the case of *Terminator 2*, the line works perfectly for Arnold Schwarzenegger's Terminator—a character who, as an `artificial intelligence`, could plausibly mix languages in ways that are memorable yet not quite native. The slight misusage adds to the character's charm and the line's memorability, turning it into a cultural touchstone.
 
 This blending or tweaking of language for dramatic effect shows how film and media can influence language perception and usage, often far beyond the original linguistic rules. It's a testament to how powerful and lasting film dialogue can be, creating phrases that resonate across different languages and cultures.
+
+# 4
+
+Oh, let’s clarify that! Actually, the iconic line "Hasta la vista, baby!" wasn't used in the original *Terminator* movie from 1984. It first appeared in *Terminator 2: Judgment Day*, which was released in 1991. The Terminator, played by Arnold Schwarzenegger, uses the phrase as a catchy, impactful way of saying goodbye before dispatching his enemies, which indeed became a memorable and oft-quoted line in cinema history.
+
+The use of "Hasta la vista, baby!" rather than a more typical Spanish farewell like "Hasta luego, amigo!" might reflect the screenwriters' intention to create a unique, signature line that sounded both familiar and exotic to English-speaking audiences, giving it a fresh and striking effect. It certainly worked, as the phrase is still widely recognized and associated with the Terminator character.
+
+So, the choice wasn't due to the Terminator "hallucinating" or misremembering, but more about crafting a line that would have a strong impact and cultural stickiness. The screenwriters tapped into a mix of languages to create a line that was powerful in the moment and resonant in pop culture.
