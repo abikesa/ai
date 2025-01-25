@@ -1,7 +1,7 @@
 # Sound
 
 *Y'already know!*     
--- Sean
+-- Tyrone
 
 ```{bibliography}
 ```
