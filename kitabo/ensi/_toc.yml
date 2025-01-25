@@ -25,7 +25,7 @@ chapters:
   # Apollo
   - file: act3/part3
     sections:
-      - title: 'Weaponization 🌊'
+      - title: 'Weaponized 🌊'
         file: act3/act1
         sections:
           - title: Estimate
@@ -34,7 +34,7 @@ chapters:
             file: act3/part1/part1_2
           - title: Inference
             file: act3/part1/part1_3
-      - title: 'Tokenization ⚓️'
+      - title: 'Tokenized ⚓️'
         file: act3/act2
         sections:
           - title: Patient
@@ -43,7 +43,7 @@ chapters:
             file: act3/part2/part2_2
           - title: 'Student ☔️'
             file: act3/part2/part2_3
-      - title: 'Monopolization 🧭'
+      - title: 'Monopolized 🧭'
         file: act3/act3
         sections:
           - title: Notification
